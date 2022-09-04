@@ -1,3 +1,12 @@
+# RTISS
+App for displaying the real-time location and movement of the NASA International Space Station satellite on a Google Map.
+
+Make sure to enable the Google Maps Javascript API for your project and generate your Google API key prior to using the app.
+
+Full API documentation available here: https://developers.google.com/maps/documentation/javascript/overview
+
+Note: the Google Maps Javascript API is a free API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
